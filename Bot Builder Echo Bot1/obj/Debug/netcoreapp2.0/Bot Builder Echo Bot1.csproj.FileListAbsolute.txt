@@ -1,0 +1,11 @@
+C:\Users\wadeg\source\repos\Bot Builder Echo Bot1\Bot Builder Echo Bot1\bin\Debug\netcoreapp2.0\Bot Builder Echo Bot1.deps.json
+C:\Users\wadeg\source\repos\Bot Builder Echo Bot1\Bot Builder Echo Bot1\bin\Debug\netcoreapp2.0\Bot Builder Echo Bot1.runtimeconfig.json
+C:\Users\wadeg\source\repos\Bot Builder Echo Bot1\Bot Builder Echo Bot1\bin\Debug\netcoreapp2.0\Bot Builder Echo Bot1.runtimeconfig.dev.json
+C:\Users\wadeg\source\repos\Bot Builder Echo Bot1\Bot Builder Echo Bot1\bin\Debug\netcoreapp2.0\Bot Builder Echo Bot1.dll
+C:\Users\wadeg\source\repos\Bot Builder Echo Bot1\Bot Builder Echo Bot1\bin\Debug\netcoreapp2.0\Bot Builder Echo Bot1.pdb
+C:\Users\wadeg\source\repos\Bot Builder Echo Bot1\Bot Builder Echo Bot1\obj\Debug\netcoreapp2.0\Bot Builder Echo Bot1.csprojAssemblyReference.cache
+C:\Users\wadeg\source\repos\Bot Builder Echo Bot1\Bot Builder Echo Bot1\obj\Debug\netcoreapp2.0\Bot Builder Echo Bot1.csproj.CoreCompileInputs.cache
+C:\Users\wadeg\source\repos\Bot Builder Echo Bot1\Bot Builder Echo Bot1\obj\Debug\netcoreapp2.0\Bot Builder Echo Bot1.AssemblyInfoInputs.cache
+C:\Users\wadeg\source\repos\Bot Builder Echo Bot1\Bot Builder Echo Bot1\obj\Debug\netcoreapp2.0\Bot Builder Echo Bot1.AssemblyInfo.cs
+C:\Users\wadeg\source\repos\Bot Builder Echo Bot1\Bot Builder Echo Bot1\obj\Debug\netcoreapp2.0\Bot Builder Echo Bot1.dll
+C:\Users\wadeg\source\repos\Bot Builder Echo Bot1\Bot Builder Echo Bot1\obj\Debug\netcoreapp2.0\Bot Builder Echo Bot1.pdb
