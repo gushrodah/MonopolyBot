@@ -1,0 +1,21 @@
+C:\Users\wadeg\source\repos\Bot Builder Echo Bot1\Bot Builder Echo Bot1\bin\Debug\netcoreapp2.0\MonopolyBot.deps.json
+C:\Users\wadeg\source\repos\Bot Builder Echo Bot1\Bot Builder Echo Bot1\bin\Debug\netcoreapp2.0\MonopolyBot.runtimeconfig.json
+C:\Users\wadeg\source\repos\Bot Builder Echo Bot1\Bot Builder Echo Bot1\bin\Debug\netcoreapp2.0\MonopolyBot.runtimeconfig.dev.json
+C:\Users\wadeg\source\repos\Bot Builder Echo Bot1\Bot Builder Echo Bot1\bin\Debug\netcoreapp2.0\MonopolyBot.dll
+C:\Users\wadeg\source\repos\Bot Builder Echo Bot1\Bot Builder Echo Bot1\bin\Debug\netcoreapp2.0\MonopolyBot.pdb
+C:\Users\wadeg\source\repos\Bot Builder Echo Bot1\Bot Builder Echo Bot1\obj\Debug\netcoreapp2.0\MonopolyBot.csproj.CoreCompileInputs.cache
+C:\Users\wadeg\source\repos\Bot Builder Echo Bot1\Bot Builder Echo Bot1\obj\Debug\netcoreapp2.0\MonopolyBot.AssemblyInfoInputs.cache
+C:\Users\wadeg\source\repos\Bot Builder Echo Bot1\Bot Builder Echo Bot1\obj\Debug\netcoreapp2.0\MonopolyBot.AssemblyInfo.cs
+C:\Users\wadeg\source\repos\Bot Builder Echo Bot1\Bot Builder Echo Bot1\obj\Debug\netcoreapp2.0\MonopolyBot.dll
+C:\Users\wadeg\source\repos\Bot Builder Echo Bot1\Bot Builder Echo Bot1\obj\Debug\netcoreapp2.0\MonopolyBot.pdb
+C:\Users\wadeg\Desktop\MonopolyBot\Bot Builder Echo Bot1\bin\Debug\netcoreapp2.0\MonopolyBot.deps.json
+C:\Users\wadeg\Desktop\MonopolyBot\Bot Builder Echo Bot1\bin\Debug\netcoreapp2.0\MonopolyBot.runtimeconfig.json
+C:\Users\wadeg\Desktop\MonopolyBot\Bot Builder Echo Bot1\bin\Debug\netcoreapp2.0\MonopolyBot.runtimeconfig.dev.json
+C:\Users\wadeg\Desktop\MonopolyBot\Bot Builder Echo Bot1\bin\Debug\netcoreapp2.0\MonopolyBot.dll
+C:\Users\wadeg\Desktop\MonopolyBot\Bot Builder Echo Bot1\bin\Debug\netcoreapp2.0\MonopolyBot.pdb
+C:\Users\wadeg\Desktop\MonopolyBot\Bot Builder Echo Bot1\obj\Debug\netcoreapp2.0\MonopolyBot.csprojAssemblyReference.cache
+C:\Users\wadeg\Desktop\MonopolyBot\Bot Builder Echo Bot1\obj\Debug\netcoreapp2.0\MonopolyBot.csproj.CoreCompileInputs.cache
+C:\Users\wadeg\Desktop\MonopolyBot\Bot Builder Echo Bot1\obj\Debug\netcoreapp2.0\MonopolyBot.AssemblyInfoInputs.cache
+C:\Users\wadeg\Desktop\MonopolyBot\Bot Builder Echo Bot1\obj\Debug\netcoreapp2.0\MonopolyBot.AssemblyInfo.cs
+C:\Users\wadeg\Desktop\MonopolyBot\Bot Builder Echo Bot1\obj\Debug\netcoreapp2.0\MonopolyBot.dll
+C:\Users\wadeg\Desktop\MonopolyBot\Bot Builder Echo Bot1\obj\Debug\netcoreapp2.0\MonopolyBot.pdb

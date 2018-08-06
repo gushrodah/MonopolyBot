@@ -1,0 +1,15 @@
+{
+    "name": "Bot_Builder_Echo_Bot1",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "id": "http://localhost:3978/api/messages",
+            "name": "Bot_Builder_Echo_Bot1",
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages"
+        }
+    ]
+}
